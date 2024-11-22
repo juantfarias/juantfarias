@@ -1,16 +1,31 @@
-## Hi there 👋
+## Oi! Eu sou o Juan 👋
 
-<!--
-**juantfarias/juantfarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente, trabalho como dev Front End na Prefeitura de Senador Canedo - GO  
+- 📫 Estudo Ciência da Computação na Estácio  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juantfarias&layout=compact&langs_count=7&theme=dracula" />
+  
+  <br> <!-- Adiciona espaçamento maior entre os elementos -->
+  
+  <p>🎧 Adoro música! Veja minhas últimas tocadas no meu Spotify:</p>
+  
+  <br>
+   
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12163962936" alt="Spotify Recently Played" />
+</div>
+
+---
+
+### Contatos:
+
+<div>
+  <a href="mailto:juantfarias2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/juantfarias/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
