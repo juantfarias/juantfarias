@@ -10,7 +10,7 @@
   
   <br> <!-- Adiciona espaçamento maior entre os elementos -->
   
-  <p>🎧 Adoro música! Veja minhas últimas tocadas no meu Spotify:</p>
+  <p>🎧 Adoro música! Veja as últimas tocadas no meu Spotify:</p>
   
   <br>
    
