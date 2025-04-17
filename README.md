@@ -1,6 +1,5 @@
 ## Oi! Eu sou o Juan 👋
 
-- 🔭 Atualmente, trabalho como dev Front End na Prefeitura de Senador Canedo - GO  
 - 📫 Estudo Ciência da Computação na Estácio  
 
 ---
