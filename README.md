@@ -6,8 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juantfarias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<h2 align="left">Opa! Eu sou o Juan Farias, Desenvolvedor Web Jr. Sou formado em Ciência da Computação.</h2>
-<h3 align="left">Pessoa autodidata, e com experiência nas seguintes tecnologias:</h3>
+<h2 align="center">Opa! Eu sou o Juan Farias, Desenvolvedor Web Jr. Sou formado em Ciência da Computação.</h2>
+<h3 align="center">Pessoa autodidata, e com experiência nas seguintes tecnologias:</h3>
 
 ###
 
@@ -46,6 +46,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
 </div>
+
+<h2 align="center">Entre em contato comigo!</h2>
 
 ###
 
