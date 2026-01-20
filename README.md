@@ -9,10 +9,6 @@
   Pessoa autodidata, com experiência nas seguintes tecnologias:
 </h3>
 
----
-
-## 🚀 Tecnologias
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img width="12" />
